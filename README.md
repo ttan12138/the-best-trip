@@ -1,4 +1,4 @@
-# myproject
+# the best trip
 
 ## Project setup
 ```
